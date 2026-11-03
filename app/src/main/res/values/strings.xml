@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Storage Demo</string>
+    <string name="chapter_title">Chapter 4: Working with Data Storage</string>
+    <string name="chapter_subtitle">Interactive Educational Masterclass</string>
+    <string name="module1_title">Shared Preferences</string>
+    <string name="module1_subtitle">User Preferences &amp; Key-Value Storage</string>
+    <string name="module2_title">SQLite (Room)</string>
+    <string name="module2_subtitle">Structured Local Relational Data</string>
+    <string name="module3_title">Firebase Auth</string>
+    <string name="module3_subtitle">Cloud Session &amp; User State</string>
+</resources>

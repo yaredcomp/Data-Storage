@@ -1,0 +1,6 @@
+{
+  "name": "Data Storage Demo",
+  "description": "Educational demo application for Chapter 4: Working with Data Storage, featuring SharedPreferences, Room Database, and Firebase Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
